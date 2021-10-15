@@ -1,3 +1,3 @@
 # demo
 Hi.
-A demo repo to to play around with Git
+This is a demo repo to to play around with Git
